@@ -1,2 +1,1 @@
-# danslavov.github.io
-test
+This is a test page at danslavov.github.io
